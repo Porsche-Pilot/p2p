@@ -1,0 +1,16 @@
+{
+  "name": "mars-p2p-share",
+  "version": "1.0.0",
+  "description": "P2P browser-to-browser file transfer via WebRTC",
+  "type": "module",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0",
+    "uuid": "^10.0.0"
+  }
+}
