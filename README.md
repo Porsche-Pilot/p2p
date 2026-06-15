@@ -47,8 +47,8 @@ No file data ever touches the signaling server.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/mars-share.git
-cd mars-share
+git clone https://github.com/Porsche-Pilot/p2p.git
+cd p2p
 
 # Install dependencies
 npm install
