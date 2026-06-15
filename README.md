@@ -4,7 +4,7 @@ A peer-to-peer, browser-to-browser file transfer app built with WebRTC, vanilla 
 
 ## Live Demo
 
-> Coming soon
+> [https://p2p-obsm.onrender.com/](https://p2p-obsm.onrender.com/)
 
 ## How It Works
 
